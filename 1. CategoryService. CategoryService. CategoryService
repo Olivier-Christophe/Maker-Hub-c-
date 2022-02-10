@@ -1,0 +1,9 @@
+1. CategoryService
+    1.1 Get() => liste des categories
+2. CategoryController
+    2.1 Get() => fera appel au categoryService pour récupérer la liste des categories
+    2.2 Mapper les categories => categoryDTO
+    2.3 retourner les categoryDTO
+3. Tester sur swagger
+4. Créer une page sur Angular et afficher la liste des categories
+5.Sample (auteur-titre)
